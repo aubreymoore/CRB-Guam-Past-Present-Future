@@ -414,7 +414,7 @@ Guam biotype
 \begin_inset Float figure
 wide false
 sideways false
-status collapsed
+status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
@@ -503,29 +503,51 @@ The Guam CRB Eradication Project was a joint effort involving the United
  Financial support came from the United States Department of Agriculture,
  the United States Forest Service and the Legislature of Guam.
  The project used several tactics aimed at wiping out the CRB population:
+ quarantine, sanitation, trapping, and chemical control.
+ These are explaned below.
 \end_layout
 
-\begin_layout Description
-Quarantine The Guam Department of Agriculture drew a line around the CRB
- infestation area and required inspection and/or treatment of any dead vegetatio
-n being transport to other parts of the island.
+\begin_layout Standard
+The opportunity to eradicate CRB from Guam was lost when the infestation
+ spread from the Tumon Bay area to breeding sites on other parts of the
+ island prior to 2010.
+ Most breeding sites are currently inaccessable for application of eradication
+ tactics, being in the deep jungle and/or on military property which includes
+ about one third of the island.
+\end_layout
+
+\begin_layout Subsection
+Quarantine 
+\end_layout
+
+\begin_layout Standard
+The Guam Department of Agriculture drew a line around the CRB infestation
+ area and required inspection and/or treatment of any dead vegetation being
+ transport to other parts of the island.
  The quarantine had to be expanded several times.
  By 2010, all parts of Guam were infested by CRB.
 \end_layout
 
-\begin_layout Description
-Sanitation Sanitation is the most important tactic in any CRB eradication
- project.
+\begin_layout Subsection
+Sanitation 
+\end_layout
+
+\begin_layout Standard
+Sanitation is the most important tactic in any CRB eradication project.
  The target is to find and destroy all breeding sites before adults are
  generated, thus halting reproduction preventing all damage.
  The eradication program employed 4 detector dogs trained to sniff out rhino
  beetle grubs.
 \end_layout
 
-\begin_layout Description
-Trapping At the start of the eradication project, we were advised that the
- adult population could be annhialated using the commercially available
- aggregation pheremone as a lure.
+\begin_layout Subsection
+Trapping 
+\end_layout
+
+\begin_layout Standard
+At the start of the eradication project, we were advised that the adult
+ population could be annhialated using the commercially available aggregation
+ pheremone as a lure.
  To the contrary, we soon learned that the traps were ineffective for population
  suppression when new damage appeared in mass trapping areas.
  However, an islandwide trapping network of about 2,000 traps was useful
@@ -558,52 +580,237 @@ tekken
  
 \end_layout
 
-\begin_layout Description
-Chemical
-\begin_inset space ~
-\end_inset
+\begin_layout Subsection
+Chemical control 
+\end_layout
 
-control Individual palms can be protected from CRB attacks by prophalactic
- insecticide application.
+\begin_layout Standard
+Individual palms can be protected from CRB attacks by prophalactic insecticide
+ application.
  But this is very expensive.
  A row of 33 severely damaged coconut palms at the University of Guam Agricultur
 al Experiment Station in Yigo were nursed back to apparent perfect health
  by spraying their crowns with the insecticide cypermethrin on a biweekly
  schedule.
- 
-\end_layout
-
-\begin_layout Standard
-The opportunity to eradicate CRB from Guam was lost when the infestation
- spread from the Tumon Bay area to breeding sites on other parts of the
- island prior to 2010.
- Most breeding sites are currently inaccessable for application of eradication
- tactics, being in the deep jungle and/or on military property which includes
- about one third of the island.
+ It took 15 months of treatment before all damaged fronds were replaced
+ by healthy ones.
 \end_layout
 
 \begin_layout Section
 Guam CRB Biological Control Program
 \end_layout
 
-\begin_layout Itemize
-what is biocontrol? escape from natural enemies
+\begin_layout Standard
+In their native environment insect populations are suppressed by natural
+ enemies which include parasites, predators and pathogens.
+ When alien insects invade islands they escape control by natural enemies,
+ resulting in damaging population explosions.
+ Biological control programs introduce biocontrol agents which specifically
+ target invasive species.
+ There are many examples of successful biological control programs on Guam
+ where invasive species populations are maintained at low levels by purposefully
+ introduced biocontrol agents.
+ 
 \end_layout
 
-\begin_layout Itemize
-OrNV
+\begin_layout Standard
+The Guam CRB Biological Control Program was launched following failure of
+ the eradication attempt.
+ There are two widely used biocontrol agents for CRB, a virus called OrNV
+ and a fungus called GMF.
+ Both of these pathogens attack only rhino beetles and pose no risk to other
+ organisms.
 \end_layout
 
-\begin_layout Itemize
-GMF
+\begin_layout Subsection
+
+\emph on
+Oryctes rhinoceros
+\emph default
+ Nudivirus (OrNV)
+\end_layout
+
+\begin_layout Standard
+Shortly after its discovery in Malaysia in 1963 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "huger2005theoryctes"
+
+\end_inset
+
+, OrNV (
+\emph on
+Oryctes rhinoceros
+\emph default
+ nudivirus), was released as a bicontrol agent on Pacific islands which
+ had been invaded by CRB.
+ The release technique, referred to as 
+\emph on
+autodissemination
+\emph default
+, is very simple: adult rhino beetles are infected with the virus and then
+ released.
+ The virus quickly spreads throught the CRB population and persists in the
+ environment indefinately.
+ Wherever the virus was released, there was a drastic decline of the beetle
+ populations followed by a conspicuous recovery of the badly damaged coconut
+ stands.
+ After OrNV was released in Palau, CRB damage symptoms disappeared almost
+ entirely.
+ We expected the same results on Guam.
+\end_layout
+
+\begin_layout Standard
+OrNV was sourced from AgResearch New Zealand, a NZ government research lab
+ which maintains a collection of OrNV isolates.
+ One isolate was imported and released on Guam under conditions of permits
+ from USDA-APHIS and the Guam Department of Agriculture.
+ Unexpectedly, we observed no response to treatment at field release sites.
+ Subsequent laboratory tests showed that the Guam CRB population is resistant
+ to the OrNV isolates available from AgResearch.
+ This discovery lead to the realization that we are dealing with a genetically
+ distinct CRB which is resistant to biological control by OrNV, which has
+ been named CRB-G 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "marshall2017anew"
+
+\end_inset
+
+.
+ Although the 
+\begin_inset Quotes eld
+\end_inset
+
+G
+\begin_inset Quotes erd
+\end_inset
+
+ refers to Guam, genetic evidence shows that this biotype evolved thousands
+ of years ago, prior to its arrival on Guam.
+ 
+\end_layout
+
+\begin_layout Standard
+As previously mentioned, all CRB invasions of Pacific islands in the 21st
+ century involve CRB.
+ The current ressurgence of CRB damage in Palau is thought to be caused
+ by a recent invasion of the islands by CRB-G rather than by a different
+ biotype which has been there since WWII.
+ 
+\end_layout
+
+\begin_layout Subsection
+
+\emph on
+Metarhizium majus
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+Metarhizium majus
+\emph default
+ is a fungus which acts as a pathogen in rhinoceros beetles.
+ Spores of 
+\emph on
+M.
+ majus
+\emph default
+ are produced in a laboratory using corn or rice as a substrate and the
+ resulting material is applied to breeding sites as a bio-insecticide.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\emph on
+M.
+ majus
+\emph default
+ was imported from the Philippine Coconut Authority and released on Guam
+ under conditions of permits from USDA-APHIS and the Guam Department of
+ Agriculture.
+ There were no observations of CRB grubs or adults infected with 
+\emph on
+M.
+ majus
+\emph default
+ prior to release of the fungus.
+ An extensive post-release survey showed that between 10% and 38% of field
+ collected CRB died from 
+\emph on
+M.
+ majus
+\emph default
+ infection within 21 days after collection.
+ 
+\emph on
+M.
+ majus
+\emph default
+ has established on Guam and it is often found in untreated breeding sites.
+ However, this biocontrol agent did not suppressed populations enough to
+ prevent the current outbreak.
+ 
 \end_layout
 
 \begin_layout Section
 Typhoon Dolphin Triggers a CRB Population Explosion
 \end_layout
 
+\begin_layout Standard
+When we thought that the Guam CRB problem could not get worse, it did.
+ Typhoon Dolphin triggered the current CRB outbreak we are now experiencing.
+\end_layout
+
+\begin_layout Standard
+Typhoon Dolphin visited Guam in May 2015.
+ It was not a very strong typhoon by Guam standards, but it was the first
+ one in more than a decade and it created a lot more damage than expected.
+ Abundant piles of decaying vegetation became CRB breeding sites.
+ Some of these new breeding sites were in villages were they could be managed.
+ But most were inaccessable: in jungles and/or on military land.
+ Within a few months, massive numbers of adults were emerging from breeding
+ sites and severely attacking palms which started to die.
+ Prior to Dolphin, we saw some heavily damages palms, but very few dead
+ ones.
+ Once a palm is killed, its dead standing trunk becomes an excellent breeding
+ site which eventually produces even more adults resulting in a self-sustaining
+ outbreak such as the one we are experiencing.
+\end_layout
+
 \begin_layout Section
 Where do we go from here?
+\end_layout
+
+\begin_layout Standard
+If we do not control the current rhino beetle outbreak on Guam, it will
+ only end when the beetles run out of food.
+ Which means most of Guam's palm trees will be killed, as happened in Palau
+ after WWII.
+ If current CRB-G outbreaks in the Pacific cannot be suppressed, it is only
+ a matter of time until this biotype invades other islands.
+ If CRB-G reaches atolls where the coconut palm is 
+\emph on
+the tree of life
+\emph default
+ this will be a human trajedy, possibly displacing islanders to larger populatio
+n centers.
+\end_layout
+
+\begin_layout Standard
+At the 2016 International Congress of Entomology, the USDA sponsored a meeting
+ to plan a regional response to CRB-G.
+ Pacific-based entomologists with extensive experience working with CRB
+ agreed that our best bet for stopping CRB-G outbreaks is to find an isolate
+ of OrNV which is highly pathogenic for CRB-G.
+ Although a regional project has yet to be funded and organized, work has
+ already begun.
+ The University of Guam has been awarded a grant from USDA-APHIS to collaborate
+ with AgResearch New Zealand to find a hot virus for CRB-G biocontrol and
+ another grant from Department of the Interior, Office of Island Affairs
+ will fund a post-doc entomologist to work on this project.
 \end_layout
 
 \begin_layout Standard
