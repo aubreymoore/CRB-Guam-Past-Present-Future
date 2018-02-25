@@ -99,138 +99,6 @@ Aubrey Moore
 \end_layout
 
 \begin_layout Standard
-\begin_inset CommandInset toc
-LatexCommand tableofcontents
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-\begin_inset Newpage newpage
-\end_inset
-
-
-\end_layout
-
-\begin_layout Abstract
-
-\series bold
-Guam's ecosystems are under attack by invasive species.
-
-\series default
- 
-\end_layout
-
-\begin_layout Abstract
-Many people know about extinction of Guam's birds by the brown treesnake
- which invaded the island shortly after WWII.
- But the contemporary ecological disaster which is currently happening in
- Guam's forests is not well known: the trees are dying.
- 
-\end_layout
-
-\begin_layout Abstract
-It is estimated that 90% of Guam's endemic cycads, locally known as 
-\emph on
-fadang
-\emph default
-, have been killed by a coalition of recently-arrived invasive insects which
- includes a scale insect, a leaf-mining moth, and a defoliating butterfly.
- Fadang was listed as being the most abundant tree in Guam's forests in
- a 2002 forestry survey 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "j.a.donnegonguamsforest"
-
-\end_inset
-
- This plant was added to the National Endangered Species List in 2015 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2015endangered"
-
-\end_inset
-
-.
- 
-\end_layout
-
-\begin_layout Abstract
-The same 2002 forestry survey listed coconut palm as the second most abundant
- tree on Guam.
- During recent years, many coconuts and other palms on Guam have been severely
- damaged and killed by the coconut rhinoceros beetle (CRB) (Figure 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "fig:Coconut-rhinoceros-beetle"
-plural "false"
-caps "false"
-noprefix "false"
-
-\end_inset
-
-).
- There is no estimate for the proportion of palms killed but it is obvious
- to residents and visitors that the island's palms are being killed at an
- alarming rate.
- 
-\end_layout
-
-\begin_layout Abstract
-In this article I present a short history of the CRB problem on Guam and
- I recommend a strategy to stop the outbreak which is damaging and killing
- our palms.
- 
-\end_layout
-
-\begin_layout Standard
-\begin_inset Float figure
-placement p
-wide false
-sideways false
-status open
-
-\begin_layout Plain Layout
-\begin_inset Graphics
-	filename rhino_beetle_head.jpg
-	lyxscale 20
-	width 100line%
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-\begin_inset Caption Standard
-
-\begin_layout Plain Layout
-\begin_inset CommandInset label
-LatexCommand label
-name "fig:Coconut-rhinoceros-beetle"
-
-\end_inset
-
-Coconut rhinoceros beetle (Image courtesy of US Forest Health - Durham Office)
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Plain Layout
-
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
 \begin_inset Float figure
 wide false
 sideways false
@@ -240,7 +108,6 @@ status open
 \begin_inset Graphics
 	filename dying_coconuts.1200x1200.jpeg
 	lyxscale 20
-	width 100text%
 	height 90theight%
 
 \end_inset
@@ -278,10 +145,76 @@ Coconut palms at the University of Guam Agricultural Experiment Station
 \end_layout
 
 \begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage newpage
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+
+\series bold
+Guam's ecosystems are under attack by invasive species.
+
+\series default
+ Many people know about extinction of Guam's birds by the brown treesnake
+ which invaded the island shortly after WWII.
+ But the contemporary ecological disaster which is currently happening in
+ Guam's forests is not well known: the trees are dying.
+ 
+\end_layout
+
+\begin_layout Standard
+It is estimated that 90% of Guam's endemic cycads, locally known as 
+\emph on
+fadang
+\emph default
+, have been killed by a coalition of recently-arrived invasive insects which
+ includes a scale insect, a leaf-mining moth, and a defoliating butterfly.
+ Fadang was listed as being the most abundant tree in Guam's forests in
+ a 2002 forestry survey 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "j.a.donnegonguamsforest"
+
+\end_inset
+
+ This plant was added to the National Endangered Species List in 2015 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2015endangered"
+
+\end_inset
+
+.
+ 
+\end_layout
+
+\begin_layout Standard
+The same 2002 forestry survey listed coconut palm as the second most abundant
+ tree on Guam.
+ During recent years, many coconuts and other palms on Guam have been severely
+ damaged and killed by the coconut rhinoceros beetle (CRB).
+ There is no estimate for the proportion of palms killed but it is obvious
+ to residents and visitors that the island's palms are being killed at an
+ alarming rate.
+ 
+\end_layout
+
+\begin_layout Standard
+In this article I present a short history of the CRB problem on Guam and
+ I recommend a strategy to stop the outbreak which is damaging and killing
+ our palms.
+ 
 \end_layout
 
 \begin_layout Section
@@ -338,7 +271,7 @@ status open
 
 \begin_layout Plain Layout
 \begin_inset Graphics
-	filename crb_life_cycle2_cropped.png
+	filename crb_life_cycle.png
 	lyxscale 20
 	width 100text%
 
